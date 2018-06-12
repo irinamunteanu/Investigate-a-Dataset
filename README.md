@@ -1,4 +1,4 @@
-# Investigate-a-Dataset using NumPy, pandas and Matplotlib
+# Investigate a Dataset using NumPy, pandas and Matplotlib
 
 This project is part of Udacity Data Analyst Nanodegree.
 

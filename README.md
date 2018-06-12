@@ -20,7 +20,7 @@ For the final project, you will conduct your own data analysis and create a file
 
 ## Choose Your Data Set
 
-For this project I chose the "European Soccer Dataset".
+For this project I chose the "European Soccer Database".
 
 ## Analyze Your Data
 

@@ -1,6 +1,6 @@
 # Investigate a Dataset using NumPy, pandas and Matplotlib
 
-This project is part of Udacity Data Analyst Nanodegree.
+This project is part of Udacity Data Analyst Nanodegree program.
 
 ## Project Overview
 
